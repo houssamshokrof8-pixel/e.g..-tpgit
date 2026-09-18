@@ -2,3 +2,4 @@ cucumber
 carottes
 latus
 garlic
+beet
